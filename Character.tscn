@@ -116,7 +116,7 @@ animations = [ {
 } ]
 
 [sub_resource type="RectangleShape2D" id=25]
-extents = Vector2( 12.5839, 15.0835 )
+extents = Vector2( 11.5981, 14.0529 )
 
 [node name="Character" type="KinematicBody2D"]
 position = Vector2( 448, 320 )
