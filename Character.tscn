@@ -132,3 +132,7 @@ animation = "kodok_lompat"
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2( -17.6921, 19.3403 )
 shape = SubResource( 25 )
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2( -13.1808, -74.015 )
+current = true
