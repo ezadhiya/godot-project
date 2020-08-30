@@ -134,5 +134,7 @@ position = Vector2( -17.6921, 19.3403 )
 shape = SubResource( 25 )
 
 [node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2( -13.1808, -74.015 )
+position = Vector2( -8.62849, 14.7543 )
 current = true
+limit_left = -100
+limit_bottom = 700
